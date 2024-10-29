@@ -1,0 +1,22 @@
+[
+    {"Bottling Plant": {"Inputs": ["Crude Oil", "Plastic Bottle"], "Output": "Oil Bottle"}},
+    {"Industrial Firebox": {"Inputs": ["Concentrated Salt Solution"], "Output": "Water"}},
+    {"Industrial Firebox": {"Inputs": ["Concentrated Salt Solution"], "Output": "Table Salt"}},
+    {"Trommel": {"Inputs": ["Water", "Medium Earth Fragment"], "Output": "Shallow Earth Fragment"}},
+    {"Trommel": {"Inputs": ["Water", "Medium Earth Fragment"], "Output": "Raw Iron"}},
+    {"Trommel": {"Inputs": ["Water", "Medium Earth Fragment"], "Output": "Table Salt"}},
+    {"Trommel": {"Inputs": ["Water", "Medium Earth Fragment"], "Output": "Rock"}},
+    {"Mineshaft Drill": {"Inputs": ["NULL"], "Output": "Deep Earth Fragment"}},
+    {"Bottling Plant": {"Inputs": ["Water", "Plastic Bottle"], "Output": "Cheap Water Bottle"}},
+    {"Blast Furnace": {"Inputs": ["Coal", "Iron Ingot"], "Output": "Steel Ingot"}},
+    {"Blast Furnace": {"Inputs": ["Coal", "Iron Mix"], "Output": "Steel Ingot"}},
+    {"Blast Furnace": {"Inputs": ["Coke Fuel", "Iron Ingot"], "Output": "Steel Ingot"}},
+    {"Blast Furnace": {"Inputs": ["Coke Fuel", "Iron Mix"], "Output": "Steel Ingot"}},
+    {"Blast Furnace MK2": {"Inputs": ["Coal", "Iron Ingot"], "Output": "Steel Ingot"}},
+    {"Blast Furnace MK2": {"Inputs": ["Coke Fuel", "Iron Ingot"], "Output": "Steel Ingot"}},
+    {"Chemical Reactor": {"Inputs": ["Water", "Lithium Sulfate", "Sodium Carbonate"], "Output": "Lithium Carbonate"}},
+    {"Electrolysis Plant": {"Inputs": ["Concentrated Salt Solution"], "Output": "Chlorine"}},
+    {"Electrolysis Plant": {"Inputs": ["Concentrated Salt Solution"], "Output": "Sodium Hydroxide Solution"}},
+    {"Lathe": {"Inputs": ["Iron Ingot"], "Output": "Iron Drill Head"}},
+    {"Lathe": {"Inputs": ["Tungsten Carbide Plate"], "Output": "Tungsten Carbide Drill Head"}}
+]

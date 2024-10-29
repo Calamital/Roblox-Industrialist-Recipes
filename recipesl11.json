@@ -1,0 +1,21 @@
+[
+    {"Grinder": {"Inputs": ["Medium Earth Fragment", "Machine Oil"], "Output": "Shallow Earth Fragment"}},
+    {"Trommel": {"Inputs": ["Water", "Medium Earth Fragment"], "Output": "Shallow Earth Fragment"}},
+    {"Trommel": {"Inputs": ["Water", "Medium Earth Fragment"], "Output": "Raw Iron"}},
+    {"Trommel": {"Inputs": ["Water", "Medium Earth Fragment"], "Output": "Table Salt"}},
+    {"Trommel": {"Inputs": ["Water", "Medium Earth Fragment"], "Output": "Rock"}},
+    {"Mineshaft Drill": {"Inputs": ["NULL"], "Output": "Shallow Earth Fragment"}},
+    {"LNG Plant": {"Inputs": ["Refined Gas"], "Output": "LNG"}},
+    {"Natural Gas Well": {"Inputs": ["NULL"], "Output": "Raw Gas"}},
+    {"Roller": {"Inputs": ["Iron Ingot"], "Output": "Nails"}},
+    {"Industrial Roller": {"Inputs": ["Iron Ingot"], "Output": "Nails"}},
+    {"Steam Cracking Plant": {"Inputs": ["Crude Oil", "Steam"], "Output": "Paraxylene"}},
+    {"Steam Cracking Plant": {"Inputs": ["Crude Oil", "Steam"], "Output": "Ethylene"}},
+    {"Chemical Reactor": {"Inputs": ["Raw Copper", "Hydrochloric Acid"], "Output": "Treated Raw Copper"}},
+    {"Chemical Reactor": {"Inputs": ["Raw Copper", "Hydrochloric Acid"], "Output": "Residue"}},
+    {"Oxidation Plant": {"Inputs": ["Sulfur Dioxide"], "Output": "Sulfur Trioxide"}},
+    {"Oxidation Plant": {"Inputs": ["Sulfur Dioxide", "Oxygen"], "Output": "Sulfur Trioxide"}},
+    {"Turbine Output": {"Inputs": ["NULL"], "Output": "Low Pressure Steam"}},
+    {"Electrolysis Plant": {"Inputs": ["Water"], "Output": "Oxygen"}},
+    {"Electrolysis Plant": {"Inputs": ["Water"], "Output": "Hydrogen"}}
+]

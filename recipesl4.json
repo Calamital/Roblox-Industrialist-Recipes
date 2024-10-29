@@ -1,0 +1,15 @@
+[
+    {"Alloyer": {"Inputs": ["Copper Ingot", "Zinc"], "Output": "Liquid Brass"}},
+    {"Chemical Reactor": {"Inputs": ["Hydrogen", "Powdered Tungsten", "Black Dye"], "Output": "Powdered Tungsten Carbide"}},
+    {"Gold Acid Refinery": {"Inputs": ["Hydrochloric Acid", "Water", "Medium Earth Fragment"], "Output": "Lithium Brine"}},
+    {"Gold Acid Refinery": {"Inputs": ["Hydrochloric Acid", "Water", "Medium Earth Fragment"], "Output": "Rich Soil"}},
+    {"Lithium Brine Extractor": {"Inputs": ["Water"], "Output": "Lithium Brine"}},
+    {"Lithium Brine Extractor": {"Inputs": ["Water"], "Output": "Residue"}},
+    {"Gas Refinery": {"Inputs": ["Water-Free Gas"], "Output": "Refined Gas"}},
+    {"Gas Refinery": {"Inputs": ["Water-Free Gas"], "Output": "Residue"}},
+    {"Industrial Firebox": {"Inputs": ["Oak Log"], "Output": "Sodium Carbonate"}},
+    {"Bottling Plant": {"Inputs": ["Residue", "Plastic Bottle"], "Output": "Residue Bottle"}},
+    {"Chemical Reactor": {"Inputs": ["Lithium Brine", "Sulfuric Acid"], "Output": "Dirty Lithium Sulfate"}},
+    {"Precision Assembler": {"Inputs": ["Coal", "Iron Ingot"], "Output": "Graphite-Iron Electrode"}},
+    {"Grinder": {"Inputs": ["Coal"], "Output": "Black Dye"}}
+]

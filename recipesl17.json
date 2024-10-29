@@ -1,0 +1,19 @@
+[
+    {"Roller": {"Inputs": ["Steel ingot"], "Output": "Steel Rod"}},
+    {"Industrial Roller": {"Inputs": ["Steel Ingot"], "Output": "Steel Rod"}},
+    {"Lathe": {"Inputs": ["Steel Coil"], "Output": "Steel Rod"}},
+    {"Grinder": {"Inputs": ["Deep Earth Fragment"], "Output": "Treated Rock"}},
+    {"Ingot Molder": {"Inputs": ["Liquid Iron"], "Output": "Iron Ingot"}},
+    {"Foundry": {"Inputs": ["Raw Iron", "Coke Fuel"], "Output": "Iron Ingot"}},
+    {"Foundry": {"Inputs": ["Treated Raw Iron", "Coke Fuel"], "Output": "Iron Ingot"}},
+    {"Battery Charger": {"Inputs": ["Uncharged Lithium-Ion Battery"], "Output": "Charged Lithium-Ion Battery"}},
+    {"Chemical Reactor": {"Inputs": ["Sulfuric Acid", "Lithium Ore", "Sodium Carbonate"], "Output": "Lithium Sulfate"}},
+    {"Pressurized Water Filter": {"Inputs": ["Dirty Lithium Sulfate", "Water"], "Output": "Residue"}},
+    {"Pressurized Water Filter": {"Inputs": ["Dirty Lithium Sulfate", "Water"], "Output": "Lithium Sulfate"}},
+    {"Soil Excavator": {"Inputs": ["Water"], "Output": "Soil"}},
+    {"Blast Furnace": {"Inputs": ["Coal", "Sand"], "Output": "Silicon"}},
+    {"Blast Furnace": {"Inputs": ["Coke Fuel", "Sand"], "Output": "Silicon"}},
+    {"Roller MK2": {"Inputs": ["Steel Ingot"], "Output": "Steel Coil"}},
+    {"Chemical Reactor": {"Inputs": ["Sulfuric Acid", "Raw Zinc"], "Output": "Zinc Sulfate"}},
+    {"Chemical Reactor": {"Inputs": ["Sulfuric Acid", "Raw Zinc"], "Output": "Residue"}}
+]

@@ -1,0 +1,21 @@
+[
+    {"Electric Furnace": {"Inputs": ["Raw Iron"], "Output": "Liquid Iron"}},
+    {"Electric Furnace": {"Inputs": ["Iron Ingot"], "Output": "Liquid Iron"}},
+    {"Electric Furnace": {"Inputs": ["Iron Mix"], "Output": "Liquid Iron"}},
+    {"Industrial Electric Furnace": {"Inputs": ["Treated Raw Iron"], "Output": "Liquid Iron"}},
+    {"Roller": {"Inputs": ["Steel Plate"], "Output": "Gear"}},
+    {"Industrial Roller": {"Inputs": ["Steel Plate"], "Output": "Gear"}},
+    {"Press MK2": {"Inputs": ["Steel Plate"], "Output": "Gear"}},
+    {"Chemical Reactor": {"Inputs": ["Microchip Scrap", "Sulfuric Acid"], "Output": "Gold Ingot"}},
+    {"Ingot Molder": {"Inputs": ["Liquid Gold"], "Output": "Gold Ingot"}},
+    {"Grinder": {"Inputs": ["Microchip Scrap", "Sulfuric Acid"], "Output": "Gold Ingot"}},
+    {"Advanced Assembler": {"Inputs": ["Gunpowder", "Paper"], "Output": "Dynamite"}},
+    {"Craft Assembler": {"Inputs": ["Plastic Casing", "Crankshaft"], "Output": "Gearbox"}},
+    {"Advanced Assembler": {"Inputs": ["Plastic Casing", "Crankshaft"], "Output": "Gearbox"}},
+    {"Advanced Assembler": {"Inputs": ["Plastic Casing", "Steel Rod", "Gear"], "Output": "Gearbox"}},
+    {"Chemical Reactor": {"Inputs": ["Gasoline", "Tetraethyllead"], "Output": "Leaded Gasoline"}},
+    {"Precision Assembler": {"Inputs": ["Coal", "Zinc"], "Output": "Graphite-Zinc Electrode"}},
+    {"Industrial Roller": {"Inputs": ["Ferroaluminium Alloy Ingot"], "Output": "Ferroaluminium Magnet"}},
+    {"Industrial Sawmill": {"Inputs": ["Cut Oak Log"], "Output": "Chunk Plank"}},
+    {"Sawmill": {"Inputs": ["Cut Oak Log"], "Output": "Chunk Plank"}}
+]

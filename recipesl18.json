@@ -1,0 +1,15 @@
+[
+    {"Coal Power Plant": {"Inputs": ["Coal", "Distilled Water"], "Output": "Exhaust"}},
+    {"Chemical Reactor": {"Inputs": ["Zinc", "Steel Ingot"], "Output": "Galvanized Steel"}},
+    {"Ingot Molder": {"Inputs": ["Liquid Brass"], "Output": "Brass Ingot"}},
+    {"Electrolysis Plant": {"Inputs": ["Water"], "Output": "Oxygen"}},
+    {"Electrolysis Plant": {"Inputs": ["Water"], "Output": "Hydrogen"}},
+    {"Gold Acid Refinery": {"Inputs": ["Acetic Acid", "Water", "Rich Soil"], "Output": "Residue"}},
+    {"Gold Acid Refinery": {"Inputs": ["Acetic Acid", "Water", "Rich Soil"], "Output": "10 Karat Gold"}},
+    {"Trommel": {"Inputs": ["Water", "Treated Rock"], "Output": "10 Karat Gold"}},
+    {"Trommel": {"Inputs": ["Water", "Treated Rock"], "Output": "Rich Soil"}},
+    {"Trommel": {"Inputs": ["Water", "Treated Rock"], "Output": "Raw Lead"}},
+    {"Trommel": {"Inputs": ["Water", "Treated Rock"], "Output": "Bauxite Residue"}},
+    {"Advanced Assembler": {"Inputs": ["Insulated Wire", "Steel Rod"], "Output": "Electromagnet"}},
+    {"Mineshaft Drill": {"Inputs": ["NULL"], "Output": "Medium Earth Fragment"}}
+]
