@@ -8,4 +8,4 @@ P.S.: 1.) Advanced Oil Seperator is not a typo, that is the actual name for some
       2.) If an item didn't have a listed source in the recipe book, I wrote the building it came from (ex. Exhaust coming from Coal Power Plant with Distilled Water and Coal).
       3.) Power cost and other information about recipes are not listed; if you need that information, I could make another file containing the information or add onto the existing file.
 
-Credit to sparkles3421 for polishing my file in PRETTYRECIPES.json
+Credit to sparkles3421 for polishing my file in PRETTYRECIPES.json and PRETTYRECIPESEXPANDED.json
